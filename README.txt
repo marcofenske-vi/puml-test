@@ -1,5 +1,5 @@
 @startuml C4_Elements
-!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
 [*] --> 01_ENTER_DATA
 
 01_ENTER_DATA: Neuer Antrag, Nutzer können Daten eingeben
